@@ -1,5 +1,3 @@
-# readme.md
-
 ## Olá! eu sou a Maria Eduarda, mas podem me chamar de Duda👩🏽‍💻
 
 ## PT-BR
