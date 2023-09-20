@@ -28,6 +28,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
 # Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-4B0082?style=for-the-badge)](https://web.dio.me/users/mariaeduardafigueiredo04?tab=achievements&page=1)
+[![Discord](https://img.shields.io/badge/Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mariaeduardafigueiredo05)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=000F)](https://www.linkedin.com/in/maria-eduarda-figueiredo2023/)
-[![Gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=Gmail-Gmail&logoColor=)](mailto:mariaeduardaprogramadora23@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail-Gmail&logoColor=)](mailto:mariaeduardaprogramadora23@gmail.com)
