@@ -10,7 +10,7 @@
 💡 Disposta a estar constantemente aprendendo tecnologias novas
 
 ## EN
-👋🏻 Hello, my name is Maria Eduarda
+👋 Hello, my name is Maria Eduarda
 
 - 🇧🇷 I'm Brazilian, I'm 18 years old
 
