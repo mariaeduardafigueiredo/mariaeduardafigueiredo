@@ -21,6 +21,8 @@
 # Habilidades
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=MySQL)
 ![Postgresql](https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=Postgresql)
 
