@@ -34,4 +34,4 @@
 # Conecte-se comigo
 [![Discord](https://img.shields.io/badge/Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mariaeduardafigueiredo05)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=000F)](https://www.linkedin.com/in/maria-eduarda-figueiredo2023/)
-[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail-Gmail&logoColor=)](mailto:mariaeduardaprogramadora23@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail-Gmail&logoColor=)](mailto:mariaeduardafigueiredo04@gmail.com)
