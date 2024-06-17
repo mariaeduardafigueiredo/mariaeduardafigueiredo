@@ -1,7 +1,6 @@
 <h1 align="center"> 👋🏼 Olá! eu sou a Maria Eduarda👩🏽‍💻
 
 ## PT-BR
-👋 Olá me chamo Maria Eduarda
 
 - 🇧🇷 Sou brasileira, tenho 19 anos
    
@@ -10,7 +9,6 @@
 💡 Disposta a estar constantemente aprendendo tecnologias novas
 
 ## EN
-👋 Hello, my name is Maria Eduarda
 
 - 🇧🇷 I'm Brazilian, I'm 19 years old
 
