@@ -18,13 +18,18 @@
 💡 Willing to be constantly learning new technologies
 
 # Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-<img height="50" src="https://github.com/mariaeduarda022005/mariaeduarda022005/blob/main/icons/C.svg">
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-<img height="50" src="https://github.com/mariaeduarda022005/mariaeduarda022005/blob/main/icons/MySQL-Dark.svg">
-<img height="50" src="https://github.com/mariaeduarda022005/mariaeduarda022005/blob/main/icons/PostgreSQL-Dark.svg">
-<img height="50" src="https://github.com/mariaeduarda022005/mariaeduarda022005/blob/main/icons/Spring-Dark.svg">
-<img height="50" src="https://github.com/mariaeduarda022005/mariaeduarda022005/blob/main/icons/Postman.svg">
+
+<div class="icon-container">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/HTML.svg" alt="HTML">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/CSS.svg" alt="CSS">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/JavaScript.svg" alt="JavaScript">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/C.svg" alt="C">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/Java-Dark.svg" alt="Java">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/MySQL-Dark.svg" alt="MySQL">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/PostgreSQL-Dark.svg" alt="PostgreSQL">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/Spring-Dark.svg" alt="Spring">
+        <img height="50" src="https://github.com/mariaeduardafigueiredo/mariaeduardafigueiredo/blob/main/icons/Postman.svg" alt="Postman">
+    </div>
 
 # Conecte-se comigo
 [![Discord](https://img.shields.io/badge/Discord-9400D3?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/mariaeduardafigueiredo05)
@@ -34,8 +39,8 @@
 
 </a>
 <a href="https://github.com/anuraghazra/github-readme-status">
-  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api?username=mariaeduarda022005&show_icons=true&theme=tokyonight"/>
+  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api?username=mariaeduardafigueiredo&show_icons=true&theme=tokyonight"/>
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
-  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda022005&layout=compact&theme=tokyonight"/>
+  <img height=190 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduardafigueiredo&layout=compact&theme=tokyonight"/>
    </a>
