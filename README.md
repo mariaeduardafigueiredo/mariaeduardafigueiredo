@@ -16,7 +16,7 @@
 
 💡 Willing to be constantly learning new technologies
 
-# Habilidades
+# Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <img height="50" src="https://github.com/mariaeduarda022005/mariaeduarda022005/blob/main/icons/C.svg">
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
@@ -35,5 +35,5 @@
   <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api?username=mariaeduarda022005&show_icons=true&theme=tokyonight"/>
    </a>
    <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda022005&exclude_repo=github-readme-stats,mariaeduarda022005.github.io&theme=tokyonight"/>
+  <img height=200 align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda022005&layout=compact&theme=tokyonight"/>
    </a>
