@@ -2,7 +2,7 @@
 
 ## PT-BR
 
-- 🇧🇷 Sou brasileira, tenho 19 anos
+- 🇧🇷 Sou brasileira, tenho 20 anos
    
 👩🏻‍💻 Estou estudando Desenvolvimento de Sistemas no Senai
 
@@ -11,7 +11,7 @@
 
 ## EN
 
-- 🇧🇷 I'm Brazilian, I'm 19 years old
+- 🇧🇷 I'm Brazilian, I'm 20 years old
 
 👩🏻‍💻 I am studying System Development at Senai
 
